@@ -1,1 +1,1 @@
-# TestPlans
+#### This repository contains test plans that are not trade secrets and are allowed for public demonstration
